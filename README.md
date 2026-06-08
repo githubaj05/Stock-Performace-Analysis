@@ -1,6 +1,8 @@
 # Stock Performance Analysis
 Built an interactive Power BI dashboard for Indian Oil stock performance analysis using financial KPIs such as
 Open, Close, High, Low prices and Volume. Implemented time-series trend analysis with dynamic visualizations and filters.
+<img width="1576" height="1010" alt="image" src="https://github.com/user-attachments/assets/3ccc1d31-190a-480f-97ca-96703a244cc9" />
+
 
 ## Tools Used
 Microsoft Power BI,
