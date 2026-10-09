@@ -23,14 +23,17 @@ I later improved the report by organizing the price analysis into a dedicated pa
 
 Provides a summary of stock performance using key metrics, yearly comparisons, and closing price trends.
 
-<img width="1120" height="632" alt="image" src="https://github.com/user-attachments/assets/c08a8ace-b80e-4240-890e-2946e02bec2d" />
+<img width="1892" height="947" alt="image" src="https://github.com/user-attachments/assets/cab4e65f-c176-4115-9f1f-0e2ff9ff6c89" />
+
 
 
 ### 2. Price and Trend Analysis
 
 Explores Open, High, Low, and Close prices across different time periods.
 
-<img width="1126" height="627" alt="image" src="https://github.com/user-attachments/assets/7160584e-b042-4dab-bf81-b27e7af9ce3a" />
+<img width="1881" height="952" alt="image" src="https://github.com/user-attachments/assets/a7d142f0-974d-48ba-9e8f-116b6e9c6d69" />
+
+
 
 ### 3. Return and Performance Analysis
 
@@ -40,6 +43,10 @@ Analyzes price changes and percentage returns across selected periods.
 
 Examines fluctuations in daily returns and the average daily price range.
 
+<img width="1885" height="942" alt="image" src="https://github.com/user-attachments/assets/c4064126-c2b0-4442-b759-4b69a07425c4" />
+
+
+
 ### 5. Drawdown Analysis
 
 Tracks declines from previous price peaks to understand historical downside movements.
@@ -47,7 +54,10 @@ Tracks declines from previous price peaks to understand historical downside move
 ### 6. Trading Activity Analysis
 
 Examines trading volume across years, quarters, and months.
-<img width="1126" height="636" alt="image" src="https://github.com/user-attachments/assets/30021db0-a011-47e4-afdd-2a0e9a7e2e82" />
+
+
+<img width="1896" height="987" alt="image" src="https://github.com/user-attachments/assets/b4510df6-9659-425d-acc0-c9d5a5db93d9" />
+
 
 
 ### 7. Performance Summary and Insights
