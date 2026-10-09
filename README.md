@@ -23,9 +23,14 @@ I later improved the report by organizing the price analysis into a dedicated pa
 
 Provides a summary of stock performance using key metrics, yearly comparisons, and closing price trends.
 
+<img width="1120" height="632" alt="image" src="https://github.com/user-attachments/assets/c08a8ace-b80e-4240-890e-2946e02bec2d" />
+
+
 ### 2. Price and Trend Analysis
 
 Explores Open, High, Low, and Close prices across different time periods.
+
+<img width="1126" height="627" alt="image" src="https://github.com/user-attachments/assets/7160584e-b042-4dab-bf81-b27e7af9ce3a" />
 
 ### 3. Return and Performance Analysis
 
@@ -42,6 +47,8 @@ Tracks declines from previous price peaks to understand historical downside move
 ### 6. Trading Activity Analysis
 
 Examines trading volume across years, quarters, and months.
+<img width="1126" height="636" alt="image" src="https://github.com/user-attachments/assets/30021db0-a011-47e4-afdd-2a0e9a7e2e82" />
+
 
 ### 7. Performance Summary and Insights
 
@@ -69,9 +76,24 @@ Combines yearly performance, monthly return patterns, quarterly returns, and key
 
 ## Key Findings
 
-The dashboard helps identify periods of positive and negative returns, changes in volatility, significant price declines, and differences in trading activity.
+1. Weakest Year
+2020 recorded the lowest annual return: -27.79%
 
-Add a few specific numerical findings from the completed dashboard here to make the analysis more useful.
+2. Strongest Year
+2023 delivered the highest annual return: +22.68%
+
+3. Major Downturn
+Q1 2020 recorded a quarterly return of -30.21%
+
+4. Recovery
+Q4 2020 rebounded by +22.74%, but the full year remained negative.
+
+5. Highest Return Volatility
+2020 recorded the highest return volatility: 12.70%
+
+6. Monthly Extreme
+March 2020 recorded a monthly return of -35.63%
+
 
 ## What I Learned
 
@@ -89,10 +111,9 @@ Add a few specific numerical findings from the completed dashboard here to make 
 
 ## Project Files
 
-- Power BI report (`.pbix`)
-- Dashboard screenshots
-- README documentation
-
+- [Power BI Dashboard (.pbix)](dashboard/indian_oil_stock_analysis_powerbi_dashboard.pbix)
+- [Dashboard Screenshots](screenshots/)
+  
 ## About Me
 
 I am a Computer Science graduate interested in data analytics, business intelligence, and data visualization.
